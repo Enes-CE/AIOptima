@@ -7,7 +7,7 @@ setup(
     description='In this library, many operations performed by users for feature engineering are functionalized and relevant visualization functions are also included.',
     author='Ibrahim Enes Ulusoy',
     author_email='c.enes.eng@gmail.com',
-    url='https://github.com/yourusername/feature_engineering',
+    url='https://github.com/Enes-CE/AIOptima',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
